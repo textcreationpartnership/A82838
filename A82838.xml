@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions agreed upon in Parliament for commissioners, for surveying the forest of Sherwood; the forest, or chase of Needwood; the forest, or chase of Kingswood; the forest, or chase of Ashdown, or Lancaster great Park; and Endfield Chase. In pursuance of an act of this present Parliament, entituled, An act and declaration, touching several acts and ordinances made since the twentieth of April 1653. and before the third of September 1654. and other acts, &amp;c. At the Parliament begun at Westminster the 17th day of September, an. Dom. 1656.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82838</idno>
+            <idno type="STC">Wing E1592</idno>
+            <idno type="STC">Thomason E1065_25</idno>
+            <idno type="STC">ESTC R27826</idno>
+            <idno type="EEBO-CITATION">99872174</idno>
+            <idno type="PROQUEST">99872174</idno>
+            <idno type="VID">169282</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82838)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169282)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1065[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Instructions agreed upon in Parliament for commissioners, for surveying the forest of Sherwood; the forest, or chase of Needwood; the forest, or chase of Kingswood; the forest, or chase of Ashdown, or Lancaster great Park; and Endfield Chase. In pursuance of an act of this present Parliament, entituled, An act and declaration, touching several acts and ordinances made since the twentieth of April 1653. and before the third of September 1654. and other acts, &amp;c. At the Parliament begun at Westminster the 17th day of September, an. Dom. 1656.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills and John Field, Printers to His Highness,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Forestry law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169282:1" rendition="simple:additions"/>
+            <p>INSTRUCTIONS Agreed upon in PARLIAMENT FOR COMMISSIONERS, For Surveying the Foreſt of <hi>Sherwood;</hi> The Foreſt, or Chaſe of <hi>Needwood;</hi> The Foreſt, or Chaſe of <hi>Kingſwood;</hi> The Foreſt, or Chaſe of <hi>Aſhdown,</hi> or <hi>Lan<g ref="char:EOLhyphen"/>caſter</hi> great Park; and <hi>Endfield</hi> Chaſe.</p>
+            <p>In purſuance of an Act of this preſent Parliament, Entituled, <hi>An Act and Declaration, touching ſeveral Acts and Ordinances made ſince the twentieth of</hi> April 1653. <hi>and before the third of</hi> September 1654. <hi>and other Acts,</hi> &amp;c.</p>
+            <p>At the Parliament begun at <hi>Weſtminſter</hi> the 17<hi rend="sup">th</hi> day of <hi>September, An. Dom.</hi> 1656.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Henry Hills,</hi> and <hi>John Field,</hi> Printers to His Highneſs. 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="instructions">
+            <pb facs="tcp:169282:2"/>
+            <pb n="1" facs="tcp:169282:2"/>
+            <head>Inſtructions, agreed upon in Parliament, for <hi>Joſeph Ayloffe, Thomas Skipwith, Jeremy Baynes, Adam Ayre,</hi> 
+               <abbr>Eſqs</abbr> 
+               <hi>James Robinſon,</hi> and <hi>William Marr,</hi> Gent. Commiſſioners for Surveying the Foreſt of <hi>Sherwood: Robert Franck, John Kenſey, Thomas Watts,</hi> 
+               <abbr>Eſqs</abbr> and <hi>George Sargeant</hi> Gent. Commiſſioners for Surveying the Foreſt, or Chaſe of <hi>Needwood: James Stedman, Robert Tayler, Thomas Tanner,</hi> 
+               <abbr>Eſqs</abbr> and <hi>John Halſey,</hi> Gent. Commiſſioners for Surveying the Foreſt, or Chaſe of <hi>Kingſwood: Henry Dewell, William Dawges, Joſeph Gamage,</hi> 
+               <abbr>Eſqs</abbr> 
+               <hi>Richard Johnſon,</hi> Gent. Commiſſioners for Surveying the Foreſt, or Chaſe of <hi>Aſhdowne,</hi> or <hi>Lancaſter</hi> great Park: <hi>John Baynton, Hugh Webb,</hi> 
+               <abbr>Eſqs</abbr> 
+               <hi>Major Rolph,</hi> and <hi>Nicholas Gunton,</hi> Gent. Commiſſioners for Surveying <hi>Endfield</hi> Chaſe, in purſuance of an Act of this preſent Parlia<g ref="char:EOLhyphen"/>ment, Entituled, <hi>An Act and Declaration, touching ſeveral Acts and Ordinances made ſince the twentieth of</hi> April 1653. <hi>and before the third of</hi> September 1654. <hi>and other Acts,</hi> &amp;c.</head>
+            <p n="1">
+               <hi>I.</hi>
+               <seg rend="decorInit">Y</seg>Ou, or any three or more of you, Sur<g ref="char:EOLhyphen"/>veyors for each Foreſt or Chaſe, are forthwith to repair to the ſaid Fo<g ref="char:EOLhyphen"/>reſt and Premiſſes, for which you are Commiſſioners, and by all lawfull waies and means, to inform your ſelves of the Perambulations, and other Metes and Bounds thereof, as the ſame was ſetled by Act of Parliament, in the ſeventeenth year of the late King <hi>Charles;</hi> and thereupon Sur<g ref="char:EOLhyphen"/>vey the ſame. And in your Surveys, you are diſtinctly to expreſs how much is open and com<g ref="char:EOLhyphen"/>mon waſte ground, how much thereof is the proper ſoil of the Commonwealth, and by whom the reſidue thereof is claimed, and to ſet out by Metes and Bounds, that proportion of waſte, the ſoil whereof is the Common<g ref="char:EOLhyphen"/>wealths.</p>
+            <p n="2">
+               <pb n="2" facs="tcp:169282:3"/>
+               <hi>II.</hi> You are to enquire and inform your ſelves, and in your Surveys diſtinctly to expreſs, what perſon or perſons, bodies politique or corporate, Pariſh, or Hamlet, do claim any common Her<g ref="char:EOLhyphen"/>bage, or Pawnage, Turbary, or Eſtovers, with<g ref="char:EOLhyphen"/>in any the Premiſſes, whether the ſame be claim<g ref="char:EOLhyphen"/>ed in right, or becauſe of Vicinage, or whether the ſaid Commons be ſtinted or without num<g ref="char:EOLhyphen"/>ber.</p>
+            <p n="3">
+               <hi>III.</hi> You are to examine and inform your ſelves, what Cottages have been Erected, contrary to the Lawes in Force, upon the ſaid ſoil of the Common-wealth, and by whom, and by what pretence the ſame have been Erected, what Rents or Services they pay, or ought to pay, and certifie, which and how many of them you judge fit to continue or be demoliſhed.</p>
+            <p n="4">
+               <hi>IV.</hi> You are to Survey any part of the Premi<g ref="char:EOLhyphen"/>ſes, which are holden in ſeveral, and to which any perſon or perſons, who hold the ſame, do make claim, from and after ſuch time and times, as the ſame ſhall by diſallowance of the claim be determined to belong to the Commonwealth, or for which no claim is made, or ſhall be made before the Twentieth day of <hi>July</hi> next enſuing; as alſo to certifie the ſame, as ſo much belonging to the Commonwealth, either as the antient right thereof, or by reaſon of not ma<g ref="char:EOLhyphen"/>king due claim thereunto.</p>
+            <p n="5">
+               <pb n="3" facs="tcp:169282:3"/>
+               <hi>V.</hi> You are to put in writing, upon the door of the Publick Meeting-place, Commonly called the Church or Chappel, in every Town or Pa<g ref="char:EOLhyphen"/>riſh, within the ſaid Foreſts or Chaſes, and in every Market-Town, within, or adjacent to the Bounds and Limits of the ſame, at what time and place you appoint to receive and pro<g ref="char:EOLhyphen"/>ceed in the Examination of the ſaid claimes of all perſons, Bodies Politique or Corporate, Pariſh and Hamblet.</p>
+            <p n="6">
+               <hi>VI.</hi> You, or any three, or more of you, Commiſ<g ref="char:EOLhyphen"/>ſioners for ſurveying of <hi>Sherwood</hi> Foreſt, toge<g ref="char:EOLhyphen"/>ther with any two onely of the perſons here<g ref="char:EOLhyphen"/>after named on the behalf of the Proprietors, Commoners, and other perſons concerned therein, (that is to ſay) <hi>Jervas Piggot, Charls White, William Cartwright, Robert Butler,</hi> and <hi>John Hacker,</hi> 
+               <abbr>Eſqs</abbr> and <hi>Thomas Briſtow</hi> Gent. You, any three or more of you the. Commiſſioners for the Survey of the Foreſt or Chaſe of <hi>Need<g ref="char:EOLhyphen"/>wood,</hi> together with any two onely of the per<g ref="char:EOLhyphen"/>ſons hereafter named on the behalf of the Proprietors, Commoners, and other perſons concerned therein; that is to ſay, <hi>William Whit<g ref="char:EOLhyphen"/>by, Zachary Babbington, Thomas Pudſie, Henry Stone</hi> of <hi>Wanſon,</hi> and <hi>Daniel Watſon,</hi> 
+               <abbr>Eſqs</abbr> you, any three or more of you the Commiſſioners for <hi>Kings-wood</hi> Foreſt, together with two onely of the perſons hereafter named on the behalf of the Proprietors, Commoners, and other
+<pb n="4" facs="tcp:169282:4"/>perſons concerned therein; that is to ſay, <hi>Tho<g ref="char:EOLhyphen"/>mas Hodges, Nehemiah Collings, Samuel Codrington</hi> and <hi>George Reymond, William Grig,</hi> and <hi>Adam Bainham,</hi> 
+               <abbr>Eſqs</abbr> you, any three or more of you, the Commiſſioners for <hi>Aſhdown</hi> Foreſt or Chaſe, or <hi>Lancaſter</hi> great Park, together with any two onely of the perſons hereafter named, on the behalf of the Proprietors, Commoners, and other perſons concerned therein; that is to ſay, <hi>Anthony Shurley, Anthony Stapelly, William Free<g ref="char:EOLhyphen"/>man, Richard Boughton,</hi> and <hi>Thomas Jenner,</hi> 
+               <abbr>Eſqs</abbr> you, any three, or more of you the Commiſſi<g ref="char:EOLhyphen"/>oners for <hi>Endfield</hi> Chaſe, together with any two onely of the perſons hereafter named on the behalf of the Proprietors, Commoners, and other perſons concerned therein; that is to ſay, Sir <hi>Richard Lucy</hi> Knight, <hi>John Barns, Paul Nichol,</hi> Mr. <hi>Wilford</hi> of <hi>Hadley,</hi> and <hi>Henry Marſh</hi> of <hi>Shely,</hi> 
+               <abbr>Eſqs</abbr> are to examine all the Claims already made and to be made as aforeſaid, of every or any perſon or perſons, Bodies Politick or Corporate, or Inhabitants claiming any Mannours, Lands, Tenements, Common of Paſture, Eſtovers, Herbage, Paſturage, Tur<g ref="char:EOLhyphen"/>bary, Profits, Rights, Advantages, Appren<g ref="char:EOLhyphen"/>dre, Liberties, and Franchiſes within the ſaid Foreſts or Chaſes reſpectively, and the Evi<g ref="char:EOLhyphen"/>dences and Proofs touching the ſame; and for that end have hereby power to ſend for and exa<g ref="char:EOLhyphen"/>mine Witneſſes upon Oath touching the ſame; and in matters of Fact appearing doubtfull, to any two of the ſaid <hi>Jarvas Piggot, Charls White, William Cartwright, Robert Butler, John Hacker</hi> and <hi>Thomas Briſtow,</hi> for the Foreſt of <hi>Sherwood;</hi> to any two of the ſaid <hi>William Whitby, Zachary Bab<g ref="char:EOLhyphen"/>bington,
+<pb n="5" facs="tcp:169282:4"/>Thomas Pudſey, Henry Stone,</hi> and <hi>Daniel Wat<g ref="char:EOLhyphen"/>ſon,</hi> for the Foreſt of <hi>Needwood;</hi> to any two of the ſaid <hi>Thomas Hodges, Nehemiah Collings, Samuel Codrington,</hi> and <hi>George Reymond, William Grig,</hi> and <hi>Adam Bainham,</hi> for the Foreſt of <hi>Kings-wood;</hi> to any two of the ſaid <hi>Anthony Sherley, Anthony Stapelley, William Freeman, Richard Boughton,</hi> and <hi>Thomas Jenner,</hi> for the Foreſt of <hi>Aſhdown</hi> and <hi>Lancaſter</hi> great Park; to any two of the ſaid Sir <hi>Richard Lucy, John Barns, Paul Nichol,</hi> Mr. <hi>Wilford,</hi> and <hi>Henry Marſh</hi> for <hi>Endfield</hi> Chaſe: the Trial of the Fact ſhall be by conſent of you, or any three of you Commiſſioners for each re<g ref="char:EOLhyphen"/>ſpective Foreſt or Chaſe by an indifferent Iury. And to the end indifferent Iuries ſhall and may be returned for trial of ſuch matters in Fact; you, or any three, or more of you, Commiſſioners for each reſpective Foreſt or Chaſe, together with any two of the perſons aforeſaid, nominated and appointed on the be<g ref="char:EOLhyphen"/>half of the Proprietors and Commoners, and of all other perſons concerned in each re<g ref="char:EOLhyphen"/>ſpective Foreſt or Chaſe, are hereby required to ſelect out of the Free-holders Book in each reſpective County wherein any of the ſaid Fo<g ref="char:EOLhyphen"/>reſt or Chaſes ſhall lie, threeſcore perſons good and lawfull men living out of the Bounds of the ſaid Foreſts or Chaſes, and unintereſſed in the ſame, and to certifie their Names unto the High Sheriff of each reſpective County, and upon the deſire of any three or more of you the Surveyors of the reſpective Foreſt and Chaſe, the ſaid Sheriffs reſpectively are hereby re<g ref="char:EOLhyphen"/>quired from time to time to ſummon and re<g ref="char:EOLhyphen"/>turn a Iury out of the ſaid threeſcore perſons,
+<pb n="6" facs="tcp:169282:5"/>for the trial of all, every, or any ſuch matters in fact, and the perſons ſo to be ſummoned and returned, are hereby required to make their appearances, and ſerve as Iurors accordingly, unto which Iurors, you, or any three of you, have hereby power to adminiſter an Oath re<g ref="char:EOLhyphen"/>ſpectively, and to charge them to inquire of the truth of the matter in Fact in that behalf: and in caſe any matter of Fact ſhall be held fit by any two of the perſons nominated on be<g ref="char:EOLhyphen"/>half of the Proprietors and Commoners in each reſpective Foreſt or Chaſe, to be tried by Iury, ſhall not be conſented unto by you the Com<g ref="char:EOLhyphen"/>miſſioners, or any three of you, for each re<g ref="char:EOLhyphen"/>ſpective Foreſt or Chaſe, then the ſtate of the Caſe to be certified to the Committee of Ap<g ref="char:EOLhyphen"/>peal, appointed by Parliament, hereafter mentioned, who are to give order touching the ſame, as to them, or any four of them ſhall ſeem fit. And in caſe you the ſeveral Com<g ref="char:EOLhyphen"/>miſſioners for each reſpective Foreſt or Chaſe, ſhall have any reaſonable cauſe to except a<g ref="char:EOLhyphen"/>gainſt any Verdict given by any Iury, you, or any three of you, for each reſpective Foreſt or Chaſe, are to certifie your Exceptions to the ſame Verdict, to the ſaid Committee of Appeal, who ſhall take ſuch order therein as ſhall be juſt and equal.</p>
+            <p n="7">
+               <pb n="7" facs="tcp:169282:5"/>
+               <hi>VII.</hi> You or any three or more of you Commiſſi<g ref="char:EOLhyphen"/>oners for each reſpective Foreſt or Chaſe, to<g ref="char:EOLhyphen"/>gether with any two of the aforeſaid perſons appointed on the behalf of the Proprietors, Commoners, and perſons concerned therein, are to alow unto all and every perſon or per<g ref="char:EOLhyphen"/>ſons, Bodies Politike or Corporate, Pariſh or Hamblet, their Succeſſors, Heirs, Execu<g ref="char:EOLhyphen"/>tors and Adminiſtrators, other then the late King, Queen or Prince, or any of their heirs, and all claiming, by, from or under them or any of them to their uſe, and intereſt or uſe, for them the late King, Queen and their heirs, concerning onely ſuch truſt or uſe for them or any of them, and ſo much of the premiſes as is lyable to ſuch uſe and truſt, All Right, Title, Intereſt, Right in Law and Equity, Annu<g ref="char:EOLhyphen"/>ities, Commodities, Fees, Franchiſes and o<g ref="char:EOLhyphen"/>ther Profits, which they, or any of them now have or ought to have enjoyed, or had Right or Title unto, in or to any the ſaid Claimed Premiſes, before the Twenty fifth day of <hi>March,</hi> One thouſand ſix hundred forty one, other then by vertue, or in right of y<hi rend="sup">e</hi> Cuſtody of the ſaid Foreſt or Chaſe, or any Office be<g ref="char:EOLhyphen"/>longing to the ſame, the exerciſe whereof is now ceaſed, or which by Deafforeſtation of the ſaid Foreſt ſhall ceaſe and determine; And in caſe you, or any three or more of you Commiſſi<g ref="char:EOLhyphen"/>ners for each reſpective Foreſt or Chaſe, toge<g ref="char:EOLhyphen"/>ther with any two of the aforeſaid perſons ap<g ref="char:EOLhyphen"/>pointed on the behalf of the Proprietors, Com<g ref="char:EOLhyphen"/>moners, and perſons concerned therein, ſhall not agree to alow or diſalow any Claim, the ſame ſhall be certified, together with the re<g ref="char:EOLhyphen"/>ſpective
+<pb n="8" facs="tcp:169282:6"/>reaſons touching the ſame, to the Committee of Appeal hereafter mentioned.</p>
+            <p n="8">
+               <hi>VIII.</hi> In examining and alowing the ſaid Claims, you are not to ſtand upon forms, or any im<g ref="char:EOLhyphen"/>proper wording of Claims, or upon the Claim<g ref="char:EOLhyphen"/>ing any things inconſiſtent one with another, but to make alowance according to the right which ſhall appear upon Evidence, or be found by Iury as aforeſaid.</p>
+            <p n="9">
+               <hi>IX.</hi> You, or any three or more of you, Commiſ<g ref="char:EOLhyphen"/>ſioners for each reſpective Foreſt or Chaſe, to<g ref="char:EOLhyphen"/>gether with any two of the aforeſaid perſons appointed on the behalf of the Proprietors, Commoners, and perſons concerned therein, are to ſet forth ſuch competent proportion out of the open and common waſte ground, wherein Intereſt or Profit, or Franchiſes, or other things ſhal be claimed and alowed, as a<g ref="char:EOLhyphen"/>foreſaid, and of the Wood thereupon grow<g ref="char:EOLhyphen"/>ing, as you or any three or more of you Com<g ref="char:EOLhyphen"/>miſſioners for each reſpective Foreſt or Chaſe, together with any two of the aforeſaid per<g ref="char:EOLhyphen"/>ſons appointed on the behalf of the Propri<g ref="char:EOLhyphen"/>etors, Commoners, and perſons concerned therein, ſhall judge to be a competent ſatisfa<g ref="char:EOLhyphen"/>ction for and in reſpect of the reſpective Inte<g ref="char:EOLhyphen"/>reſts, Profits, Franchiſes, or other things claimed and alowed as aforeſaid, and reſerve the reſidue for the Commonwealth; diſtin<g ref="char:EOLhyphen"/>guiſhing by certain Marks and Bounds, the parts ſee out for the Commonwealth, y<hi rend="sup">e</hi> Lords of the Soyl, and the Commoners, and aſcer<g ref="char:EOLhyphen"/>taining by what perſon, and in what time and maner the ſame ſhall be ſeparated and fenced;
+<pb n="9" facs="tcp:169282:6"/>And in caſe you or any three or more of you Commiſſioners for each reſpective Foreſt or Chaſe, together with any two of the afore<g ref="char:EOLhyphen"/>ſaid Perſons appointed on the behalf of the Proprietors, Commoners, and Perſons con<g ref="char:EOLhyphen"/>cerned, ſhall not agree therein, then you or any three or more of you Commiſſioners for each reſpective Foreſt or Chaſe, together with any two of the aforeſaid Perſons appointed on the behalf of the Proprietors, Common<g ref="char:EOLhyphen"/>ers, and Perſons concerned therein, ſhall ei<g ref="char:EOLhyphen"/>ther joyntly or ſeverally certifie your proceed<g ref="char:EOLhyphen"/>ings therein, and the Cauſes and Reaſons thereof unto the ſaid Committee of Appeal, who upon conſideration thereof, and hearing what can be ſaid on both Parties, ſhall ſettle and determine the ſame, as to them or any four of them ſhall ſeem juſt and reaſonable.</p>
+            <p n="10">
+               <hi>X.</hi> You or any three or more of you Commiſsi<g ref="char:EOLhyphen"/>oners for each reſpective Foreſt or Chaſe, to<g ref="char:EOLhyphen"/>gether with any two of the aforeſaid Perſons appointed on the behalf of the Proprietors, Commoners, and Perſons concerned therein, are to conſider what Lands and Tenements held in ſeveral other then what is the Com<g ref="char:EOLhyphen"/>monwealths, ought to yield Compoſition for the Deafforeſtation thereof, and what ought to be free from Compoſition, and aſcertain the ſame; and thereupon to ſet out of the ſaid open and common Waſte ſuch proportion for Compoſition, or ſuch other Compoſition, as the Equity of the Caſe ſhall require, and as to you or any three or more of you Commiſsi<g ref="char:EOLhyphen"/>oners for each reſpective Foreſt or Chaſe, to<g ref="char:EOLhyphen"/>gether with any two of the aforeſaid Perſons
+<pb n="10" facs="tcp:169282:7"/>appointed on the behalf of the Proprietors, Commoners, and Perſons concerned therein, ſhall ſeem reaſonable for, and in reſpect of the the Deafforeſtation thereof; And in caſe you or any three or more of you, Commiſsioners for each reſpective Foreſt or Chaſe, together with any two of the aforeſaid Perſons ap<g ref="char:EOLhyphen"/>pointed on the behalf of the Proprietors, Com<g ref="char:EOLhyphen"/>moners, and Perſons concerned therein ſhall not agree, then you or any three or more of you Commiſsioners for each reſpective Foreſt or Chaſe, together with any two of the afore<g ref="char:EOLhyphen"/>ſaid perſons appointed on y<hi rend="sup">e</hi> behalf of the Pro<g ref="char:EOLhyphen"/>prietors, Commoners, and Perſons concern<g ref="char:EOLhyphen"/>ed, ſhall joyntly or ſeverally certifie your pro<g ref="char:EOLhyphen"/>ceedings therein, together with the Cauſes and Reaſons unto the ſaid Committee of Ap<g ref="char:EOLhyphen"/>peal who upon conſideration had thereof, and hearing what can be ſaid on both ſides, ſhall ſettle the ſame according as to them or any four of them ſhall ſeem juſt &amp; equal; And from and after the ſettlements aforeſaid made, the ſaid Foreſts and Chaſes, and all the Man<g ref="char:EOLhyphen"/>nors, Lands and Tenements, lying within the Meets and Bonds thereof, ſhall be De<g ref="char:EOLhyphen"/>afforeſted to all Intents and Purpoſes what<g ref="char:EOLhyphen"/>ſoever, and as if the ſame had never been Fo<g ref="char:EOLhyphen"/>reſt; And as well the preſent as all former Owners, Poſſeſſors of any part of the ſaid Foreſt, or of any Manors, Lands, Tene<g ref="char:EOLhyphen"/>ments or Hereditaments, lying within the Meets and Bounds thereof, their Heirs, Succeſſors, Executors, Adminiſtrators, and Aſſigns, ſhall be for ever acquitted and diſ<g ref="char:EOLhyphen"/>charged of and from all former and other Waſtes, Purpreſtures, and Aſſarts, Treſpaſ<g ref="char:EOLhyphen"/>ſes,
+<pb n="11" facs="tcp:169282:7"/>and offences againſt the Foreſt Law, done or ſuffered in or upon the ſame.</p>
+            <p n="11">
+               <hi>XI.</hi> You are not to alow the Claim of any per<g ref="char:EOLhyphen"/>ſon or perſons, Bodies Politike or Corporate, Pariſh or Hamblet, to any Demeaſn Lands in poſſeſſion or in reverſion, or to any other pro<g ref="char:EOLhyphen"/>fits or advantages which have formerly been granted by Leaſe, or by Letters Patents, for term of Lives or Years, under a Rent reſer<g ref="char:EOLhyphen"/>ved thereupon (which Rent was due and pay<g ref="char:EOLhyphen"/>able according to the ſaid Reſervation) by ver<g ref="char:EOLhyphen"/>tue of any general words comprehended in any Grant or Grants, from the late King, Queen or Prince, or from the Truſtees na<g ref="char:EOLhyphen"/>med in the Act for Sale of the Honors, Ma<g ref="char:EOLhyphen"/>nors and Lands of the late King, Queen or Prince, unleſs the premiſes ſo claimed, be par<g ref="char:EOLhyphen"/>ticularly mentioned in the ſaid Grant or Grants, and valued in the particular, upon which the ſaid Grant or Grants have been grounded reſpectively.</p>
+            <p n="12">
+               <hi>XII.</hi> After the right or proportion of or belonging to the Commonwealth, either as the ancient proper Soyl thereof, or by ſuch Compoſiti<g ref="char:EOLhyphen"/>ons and Agreements as aforeſaid, ſhall be aſ<g ref="char:EOLhyphen"/>certained, you are to inform your ſelves what the preſent yearly value of the ſaid Lands (in caſe the ſame were incloſed) may be, as the Wood and Timber is now growing upon the ſame, what the value will be, being incloſed, what the charge of incloſing the ſame will a<g ref="char:EOLhyphen"/>mount unto, what improvement may be made in caſe the ſame be cleared and disbur<g ref="char:EOLhyphen"/>thened of the Wood and Timber, either by
+<pb n="12" facs="tcp:169282:8"/>Farming, granting Leaſes, or otherwiſe di<g ref="char:EOLhyphen"/>ſpoſing thereof, and what may be moſt advan<g ref="char:EOLhyphen"/>tageous to the Commonwealth, what quan<g ref="char:EOLhyphen"/>tity of Wood and Timber may be taken away and ſold and vended thereabouts, and in what time, and what the value thereof may amount unto, and certifie unto <hi>Thomas Coke, William Boſevile, John Sparrow, William Kenwrick, William Scot, William Steel, Sylvanus Taylor, Thomas Hub<g ref="char:EOLhyphen"/>bert, Cornelius Cook,</hi> or any four or more of them, Truſtees nominated by Ordinance for Sale of four Foreſts or Chaſes, reſerved for Colateral Security to the Soldiers.</p>
+            <p n="13">
+               <hi>XIII.</hi> You are to conſider what High-ways are ne<g ref="char:EOLhyphen"/>ceſſary to be alowed throughout the premiſes, or any part thereof, what proportion of ground will be ſufficient for that purpoſe, in what place the ſame may moſt conveniently be laid out, by whom, and in what maner the Fences adjacent to them ſhall be made and kept, and ſet out the Meets and Bounds accordingly.</p>
+            <p n="14">
+               <hi>XIV.</hi> You are to take ſpecial notice of all Thri<g ref="char:EOLhyphen"/>ving Timber of Oak, and Elm, which ſhall be found growing upon any part of the premiſes, and certifie diſtinctly in each Survey, where any ſuch Timber doth grow, the number of ſuch Trees reſpectively, how many Loads of clean Timber is in them, of what value the Lop, Top, and Bark of ſuch Trees are, how far they grow from the neareſt part of any Navigable River, and what price by the Load the ſaid Timber is worth upon the place.</p>
+            <p n="15">
+               <hi>XV.</hi> You ſhall keep a Diary or Iournal of your
+<pb n="13" facs="tcp:169282:8"/>proceedings, and within ten days after full Execution of theſe Inſtructions reſpectively, or ſooner if you ſhall be thereunto required, certifie under your Hands and Seals, or un<g ref="char:EOLhyphen"/>der the Hands and Seals of three or more of you, the Surveys by you taken, and other your proceedings touching the premiſes, unto <hi>Thomas Coke, William Boſevile, John Sparrow, William Kenwrick, William Scot, William Steel, Syl<g ref="char:EOLhyphen"/>vanus Taylor, Thomas Hubbert, Cornelius Cook,</hi> or any four or more of them, nominated Truſtees by the Ordinance for Sale of four Foreſts or Chaſes, reſerved for Colateral Security to the Soldiers.</p>
+            <p n="16">
+               <hi>XVI.</hi> For the ſpeedy and effectual execution of theſe Inſtructions, you are to imploy an a<g ref="char:EOLhyphen"/>ble Clerk and a Meſſenger for each Foreſt or Chaſe reſpectively, and to allow your Clerk five ſhillings <hi>per diem,</hi> and your Meſſenger three ſhillings <hi>per diem,</hi> and you are alſo to hire laborers two or more for each Foreſt or Chaſe to carry your Chains and Inſtruments for meaſuring and apportioning of the premiſes, not allowing them nor any of them, more then one ſhilling and ſix pence <hi>per diem,</hi> for ſo many days as you ſhall have occaſion to uſe them for your convement diſpatch thereof, and to certi<g ref="char:EOLhyphen"/>fie what charge you are at therein to the ſaid Truſtees, who are to alow the ſame upon your Accompt.</p>
+            <p n="17">
+               <hi>XVII.</hi> You are, if need ſhall require, hereby Au<g ref="char:EOLhyphen"/>thorized by your ſelves, or by ſuch Clerk or Clerks as you ſhall thereunto appoint, to ſearch, peruſe, and to take Copies, or Ex<g ref="char:EOLhyphen"/>tracts
+<pb n="14" facs="tcp:169282:9"/>of all or any Records or Evidences, ly<g ref="char:EOLhyphen"/>ing in the Tower of <hi>London</hi> or elſewhere, for the clearing and making out of the Common<g ref="char:EOLhyphen"/>wealths Title to the premiſes, without pay<g ref="char:EOLhyphen"/>ing any Fees therefore.</p>
+            <p n="18">
+               <hi>XVIII.</hi> That the Lord <hi>Lambert,</hi> General <hi>Desborow,</hi> Colonel <hi>Sydenham,</hi> Sir <hi>Gilbert Gerrard</hi> Knight, <hi>John Trever</hi> and <hi>Joſias Bernars,</hi> Eſquires, or any four of them, the Committee of Appeal ap<g ref="char:EOLhyphen"/>pointed by the Parliament, to hear and deter<g ref="char:EOLhyphen"/>mine all and every the matters and things which ſhal be certified unto them, according to theſe Inſtructions or otherwiſe, touching the Rights of the Commonwealth, the Proprie<g ref="char:EOLhyphen"/>tors, Owners and Commoners in the ſaid Fo<g ref="char:EOLhyphen"/>reſts and Chaſes reſpectively; as alſo all other matters and things whatſoever, not particu<g ref="char:EOLhyphen"/>larly named in theſe Inſtructions, which ſhall be any Obſtruction in and touching any the matters aforeſaid, and for that purpoſe may ſend for, and examine witneſſes upon oath; which oath the ſaid Committee of Appeal, or any four of them are hereby authorized to Ad<g ref="char:EOLhyphen"/>miniſter; And the Determination of the ſaid Committee in and touching the ſame, ſhall be final; And in caſe the ſaid Committee of Ap<g ref="char:EOLhyphen"/>peal ſhall be divided equally, Then the Lord Commiſſioner <hi>Fines</hi> ſhall ſettle and determine the matter, upon hearing all the Reaſons of the ſaid Committee of Appeal, whoſe Deter<g ref="char:EOLhyphen"/>mination ſhall be final.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Henry Hills</hi> and <hi>John Field,</hi> Printers to His Highneſs the Lord Protector, 1657.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
